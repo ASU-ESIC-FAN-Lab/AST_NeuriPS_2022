@@ -1,12 +1,21 @@
-# AST: Alternating Sparse Training
+# AST: Alternating Sparse Training for developing run-time dynamic neural network
 
 ![AST](./AST.png)
 
 **Get more at once: Alternating Sparse Training with Gradient Correction (NeurIPS 2022)**
 
-Li Yang\*, Jian Meng\*, [Jae-sun Seo](https://faculty.engineering.asu.edu/jseo/), and [Deliang Fan](https://dfan.engineering.asu.edu/).
+Li Yang*, Jian Meng*, Jae-sun Seo, and Deliang Fan, “Get More at Once: Alternating Sparse Training with Gradient Correction,” Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), New Orleans, LA, Nov.29 – Dec.1, 2022 (* The first two authors contribute equally) [pdf]
 
-Arizona State University
+if you find the code is useful, please cite our work
+
+@article{yang2022get,
+  title={Get more at once: alternating sparse training with gradient correction},
+  author={Yang, Li and Meng, Jian and Seo, Jae-sun and Fan, Deliang},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={30840--30850},
+  year={2022}
+}
 
 **Abstract**
 
